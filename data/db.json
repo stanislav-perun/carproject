@@ -1,0 +1,8 @@
+{
+  "cars": [
+    { "id": 1, "name": "volha", "type": "21" },
+    { "id": 2, "name": "gaz", "type": "2410" },
+    { "id": 3, "name": "lada", "type": "zigul" },
+    { "id": 4, "name": "skoda", "type": "1000mb" }
+  ]
+}
